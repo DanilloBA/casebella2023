@@ -1,0 +1,124 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+ .body{font-family: 'Anton', sans-serif;}
+
+
+.body{background-image: url(asset/artigo\ 2000.png);background-size: cover;background-repeat: no-repeat;}
+
+
+
+
+
+
+
+    .formato-0{}
+
+
+.COLOR{background-color: black;width: auto;
+    height: auto;justify-content: center; text-align: center;
+align-items: center;display: flex;flex-direction: column; }
+
+ .orden-0{display: flex;justify-content: center;align-items: center;flex-direction: row;margin-top: 70px;}
+
+  
+@media (max-width: 600px){COLOR{background-color: blueviolet;}}
+
+
+.formato-0{width: 1280px;justify-content: center;margin-top: 20PX;flex-direction:row;align-items: center;}
+
+
+.modo{ width: 300px ;}
+
+.formato{align-items: center;margin-top: 30px;width: 60% ; height:auto ;color: black;flex-wrap: wrap;}
+
+  .formato-2{color: rgb(6, 87, 157);padding: 10px;flex: none;color: rgba(0, 0, 0, 0.541)};
+
+.orden-0{display: flex; flex-direction: row;align-items: center;margin-top: 70px;justify-content: center;}
+
+.orden2{color: aliceblue;}
+
+
+.foto{border-radius: 0.4em;}
+
+
+
+.formato-3{width: 200px; height: 200px;color: black;}
+
+.formato-4{display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+@media (max-width:800px) {.formato-4{width:auto;display: flex;align-items: center;justify-content: center;flex-wrap: wrap;}}
+
+
+
+.formato-5{width: 300PX; height: 350px;display: flex;text-align: center; flex-direction:column;padding: 4px;border-radius: 0.5em;background-color: rgb(0, 0, 0);height: auto;margin:0.5em;}
+
+
+
+.formato-5{width: 300PX; height: 350px;display: flex;text-align: center; flex-direction:column;padding: 4px;border-radius: 0.5em;background-color: rgb(0, 0, 0);height: auto;margin:0.5em;}
+
+
+.formato-50{width: 300PX; height: 350px;display: flex;text-align: center; flex-direction:column;padding: 4px;border-radius: 0.5em;background-color: rgb(0, 0, 0);height: auto;margin:0.5em;}
+
+
+@media(max-width:800px){.formato-50{width: 600px;background-color: black;border-radius: 0.4em;display: flex;}}
+
+
+
+.formato-6{width: auto;height: 100%;display: flex;flex-direction: row;background-color: black;justify-content: center;margin-top: auto;flex-wrap: wrap;align-items: center;text-align: center;}
+
+
+.formato-7{width: 300px;}
+
+.formato-8{width: 200px;}
+
+
+.FORMATO-10{color: antiquewhite;margin-top: 60px;}
+
+.foto2{border-radius: 0.4em;}
+@media (max-width:768px){.foto2{width: 200px;}}
+
+@media (max-width:768px){.formato-50{width: 450px;flex-direction: row;display:flex;text-align: center;}}
+
+
+.back-color{background-color: black;width: 100%;height: 180px; justify-content: center;flex-wrap: wrap;align-items: center;display: flex;}
+
+.color-2{color: azure;}
+
+.items-circulos{display:flex;flex-direction: row; justify-content: center;flex-wrap: wrap;}
+
+.circulo-1{display: flex;background-color: black;width: 100px;height: 100px;border-radius: 50%; margin: 60px;box-shadow: inset;}
+
+.celular-dinamico{display:flex;width:80%;justify-content: center;}
+
+.celular-dinamico-2{background-image: url(asset/celular\ dinamico.png);width: 120px;}
+
+
+
+.orden-3{ display: flex;justify-content: center;align-items: center;}
+
+.orden-3plus{display: flex;width: 860px;justify-content: center;flex-wrap: wrap;}
+
+.orden-4{display: flex;justify-content: center;align-items: center;height: 700px;}
+
+
+.orden-4plus{background-image: url(asset/celular\ dinamico.png);flex-wrap: wrap;justify-content: center;background-repeat: no-repeat;background-size: cover;align-items: center;display: flex;width:420px;height: 420px;flex-wrap: wrap;}
+
+.foto-3{justify-content: center;display: flex;width: 100px;align-items: center;}
+
+
+.promocional{display: flex;justify-content: center;flex-wrap: wrap;width: 100%;}
+
+.orden-5{display:flex;text-align: center;}
+
+
+
+
+
+
+
+
+
