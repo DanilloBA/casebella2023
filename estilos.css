@@ -11,13 +11,6 @@ html {
 
 
 
-
-
-
-
-    .formato-0{}
-
-
 .COLOR{background-color: black;width: auto;
     height: auto;justify-content: center; text-align: center;
 align-items: center;display: flex;flex-direction: column; }
@@ -46,7 +39,7 @@ align-items: center;display: flex;flex-direction: column; }
 
 
 
-.formato-3{width: 200px; height: 200px;color: black;}
+
 
 .formato-4{display: flex;flex-direction: row;align-items: center;justify-content: center;}
 
